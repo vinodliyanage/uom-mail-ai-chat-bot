@@ -1,7 +1,7 @@
 {
   "name": "uom-mail-ai-chat-bot",
   "version": "1.0.0",
-  "description": "UOM Email bot that automatically responds to UOM emails with Gemini 2.0 Flash",
+  "description": "UOM Email bot that automatically responds to UOM emails with Gemini",
   "main": "src/index.js",
   "type": "module",
   "author": "Vinod Liyanage <vinodsliyanage@gmail.com>",
